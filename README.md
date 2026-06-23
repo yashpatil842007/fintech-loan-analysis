@@ -281,6 +281,5 @@ EnhancementDescriptionValueML-Based Credit ScoringLogistic Regression, XGBoost, 
 👨‍💻 Author
 
 Yash Patil
-
 Banking Analytics | Credit Risk | FinTech | Data Science
 
